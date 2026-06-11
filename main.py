@@ -10,5 +10,5 @@ def calculate_marks(marks):
 
 
 if __name__ == "__main__":
-    marks = [85, 92, 78, 88, 95]
+    marks = [85, 92, 78, 88, 95,98,99,100]
     calculate_marks(marks)
